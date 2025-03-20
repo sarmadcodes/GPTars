@@ -251,7 +251,7 @@ function ChatInterface({ userName }: { userName: string }) {
     const welcomeMessage: Message = {
       id: crypto.randomUUID(),
       role: 'assistant',
-      content: `Ayo whatup? ${userName}! What’s good? Your AI homie here — how can I hook you up today?`,
+      content: `Hey ${userName}! What's up? Your AI assistant is here—how can I help you today?`,
       timestamp: new Date()
     };
     setMessages([welcomeMessage]);
