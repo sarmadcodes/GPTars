@@ -202,7 +202,7 @@ function WelcomePage({ onStart }: { onStart: (name: string) => void }) {
           <form onSubmit={handleSubmit} className="space-y-6">
             <div>
               <label htmlFor="name" className="block text-sm font-medium mb-2">
-                enter your name POOKIE
+                enter your name sir
               </label>
               <input
                 type="text"
