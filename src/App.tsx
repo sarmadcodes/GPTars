@@ -108,7 +108,7 @@ function Footer() {
             <span>Developed</span>
             
             <span>by</span>
-            <span className="text-green-500 font-bold">Sarms</span>
+            <span className="text-green-500 font-bold">Sarmad</span>
           </div>
           <div className="flex items-center gap-6 text-sm">
             <a href="#" className="hover:text-green-400 transition-colors">Privacy Policy</a>
